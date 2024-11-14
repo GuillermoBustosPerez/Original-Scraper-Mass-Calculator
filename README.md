@@ -20,7 +20,11 @@ The following data and code is publish under a Non Commercial 4.0
 International (CC BY-NC 4.0) license. For more details, see the
 [License](License.md) file.
 
+![](License.png)
+
 When making use of this application for the analysis of archaeological
 lithic assemblages, please cite:
+
+## **Structure of the repository**
 
 </div>
