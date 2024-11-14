@@ -27,4 +27,8 @@ lithic assemblages, please cite:
 
 ## **Structure of the repository**
 
+The following [folder](Original-Scraper-Mass-Calculator-files) contains
+all data and files necessary to run the Original Scraper Mass Calculator
+v.1.0.0.
+
 </div>
