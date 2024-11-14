@@ -18,7 +18,7 @@ i Virgili, Tarragona, Spain.
 
 The following data and code is publish under a Non Commercial 4.0
 International (CC BY-NC 4.0) license. For more details, see the
-[License](License) file.
+[License](License.md) file.
 
 When making use of this application for the analysis of archaeological
 lithic assemblages, please cite:
