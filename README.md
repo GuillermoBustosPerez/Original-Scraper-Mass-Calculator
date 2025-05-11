@@ -12,9 +12,9 @@ i Virgili, Tarragona, Spain.
 
 <div align="justify">
 
-The present repository
+The present repository contains code and data of the Original Scraper Mass Calculator v.1.0.0
 
-Currently no 
+Currently, the reference publication is under review. Untill then, it is recomended.
 
 ## **Access information**
 
