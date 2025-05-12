@@ -16,9 +16,15 @@ The present repository contains code and data of the Original Scraper Mass Calcu
 
 Currently, the reference publication is under review. Until then, it is recommended to use the following citation (Journal of Archaeological Science format):   
 
+
 ```
-Bustos-Pérez, G. Code and data for the Original Scraper Mass Calculator v.1.0.0. 2025
+Bustos-Pérez, G. (2025). Code and data for the Original Scraper Mass Calculator v.1.0.0. https://github.com/GuillermoBustosPerez/Original-Scraper-Mass-Calculator.git. 
 ```
+
+The user interface of the OSMC can be accessed at:  
+https://guillermo-bustos-perez.shinyapps.io/Original-Scraper-Mass-Calculator/   
+
+
 
 ## **Access information**
 
@@ -41,6 +47,6 @@ v.1.0.0.
 
 ## **Version numbers rules**   
 
-The present application has three level versioning numbers. These versioning numbers are aimed 
+The present application has three level versioning numbers. These versioning numbers are aimed for further 
 
 </div>
