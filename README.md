@@ -14,10 +14,10 @@ i Virgili, Tarragona, Spain.
 
 The present repository contains code and data of the Original Scraper Mass Calculator v.1.0.0.
 
-Currently, the reference publication is under review. Until then, it is recommended to use the following citation (format )
+Currently, the reference publication is under review. Until then, it is recommended to use the following citation (Journal of Archaeological Science format):   
 
 ```
-Bustos-Pérez, G. Code and data for the 2025
+Bustos-Pérez, G. Code and data for the Original Scraper Mass Calculator v.1.0.0. 2025
 ```
 
 ## **Access information**
@@ -38,5 +38,9 @@ When making use of this application for the analysis of archaeological lithic as
 The following [folder](Original-Scraper-Mass-Calculator-files) contains
 all data and files necessary to run the Original Scraper Mass Calculator
 v.1.0.0.
+
+## **Version numbers rules**   
+
+The present aplication has three level versioning rule. 
 
 </div>
