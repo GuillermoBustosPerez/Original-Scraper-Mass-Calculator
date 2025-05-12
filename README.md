@@ -47,6 +47,28 @@ v.1.0.0.
 
 ## **Version numbers rules**   
 
-The present application has three level versioning numbers. These versioning numbers are aimed for further 
+The present application has three level versioning numbers. These versioning numbers are aimed for further expansion and improvement of the application.   
+
+**Versioning number level 1 (v.0.0.1)**. Contemplates minor changes such as:  
+  
+  * Correction of parsing errors.   
+  * Changes in user interface style.   
+
+**Versioning number level 2 (v.0.1.0)**. Contemplate medium changes such as:  
+
+  * Non-critical expansions of the data set.    
+  * Adding new raw materials to the data set.   
+  * Adding of visualizations.   
+  * Including additional reports (eg: indicator of quality predictions).  
+
+**Versioning number level 3 (v.1.0.0)**. Contemplates major changes, such as:    
+
+  * Implementation of new models for predictions.    
+  * Critical expansions of the data set.   
+  * Deep modifications of the user interface in order to adequate new options. 
+  * Incorporating new tool-types on which to make predictions.   
+  * Modifying the predictive variables options.   
+  
+Only versioning number level 3 requires a new reference publication. This publication would also describe medium level changes.   
 
 </div>
