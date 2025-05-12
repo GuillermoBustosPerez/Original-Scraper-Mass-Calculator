@@ -41,6 +41,6 @@ v.1.0.0.
 
 ## **Version numbers rules**   
 
-The present application has three level versioning numbers. 
+The present application has three level versioning numbers. These versioning numbers are aimed 
 
 </div>
