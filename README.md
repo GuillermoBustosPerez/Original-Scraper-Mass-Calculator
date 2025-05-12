@@ -47,7 +47,7 @@ v.1.0.0.
 
 ## **Version numbers rules**   
 
-The present application has three level versioning numbers. These versioning numbers are aimed for further expansion and improvement of the application.   
+The present application has a three level versioning numbers. That is because this app is conceived in a dynamic way, meaning that in the future it can be improved and expanded.   
 
 **Versioning number level 1 (v.0.0.1)**. Contemplates minor changes such as:  
   
